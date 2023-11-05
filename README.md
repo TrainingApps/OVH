@@ -1,6 +1,6 @@
 # OVH API
 
-- OVH Create Token : [Create new Token](https://www.ovh.com/auth/api/createToken)`
+- OVH Create Token : [Create new Token](https://www.ovh.com/auth/api/createToken)
 
 ## Install Packages
 
